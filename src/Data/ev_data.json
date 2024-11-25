@@ -1,0 +1,147 @@
+{
+    "vehicleTypes": {
+        "Battery Electric Vehicle (BEV)": 39461,
+        "Plug-in Hybrid Electric Vehicle (PHEV)": 10539
+    },
+    "cityDistribution": {
+        "Seattle": 10427,
+        "Bellevue": 4573,
+        "Vancouver": 3008,
+        "Kirkland": 2751,
+        "Sammamish": 2599,
+        "Tukwila": 2205,
+        "Redmond": 2104,
+        "Bothell": 1744,
+        "Renton": 1437,
+        "Shoreline": 1391
+    },
+    "userStats" : {
+        "totalUsers": 152845,
+        "newUsersLastMonth": 243,
+        "activeUsers": 98520,
+        "churnRate": 2.4
+    },
+    "manufacturerDistribution": {
+        "TESLA": 23127,
+        "NISSAN": 3909,
+        "CHEVROLET": 3543,
+        "BMW": 2214,
+        "FORD": 2028,
+        "KIA": 1980,
+        "TOYOTA": 1568,
+        "JEEP": 1399,
+        "VOLKSWAGEN": 1328,
+        "HYUNDAI": 1234
+    },
+    "yearlyTrend": {
+        "1998": 1,
+        "2000": 1,
+        "2002": 1,
+        "2008": 2,
+        "2010": 10,
+        "2011": 199,
+        "2012": 390,
+        "2013": 1145,
+        "2014": 914,
+        "2015": 1266,
+        "2016": 1468,
+        "2017": 2275,
+        "2018": 4092,
+        "2019": 3029,
+        "2020": 3290,
+        "2021": 5227,
+        "2022": 7813,
+        "2023": 16791,
+        "2024": 2086
+    },
+    "rangeStats": {
+        "averageRange": 59.19424,
+        "maxRange": 337.0,
+        "minRange": 0.0
+    },
+    "rangeDistribution": {
+        "0-50": 9569,
+        "51-100": 3597,
+        "101-150": 1152,
+        "151-200": 818,
+        "201-250": 6121,
+        "251-300": 2026
+    },
+    "makeModelDistribution": [
+        {
+            "Make": "TESLA",
+            "Model": "MODEL Y",
+            "count": 10389
+        },
+        {
+            "Make": "TESLA",
+            "Model": "MODEL 3",
+            "count": 8808
+        },
+        {
+            "Make": "NISSAN",
+            "Model": "LEAF",
+            "count": 3770
+        },
+        {
+            "Make": "TESLA",
+            "Model": "MODEL S",
+            "count": 2150
+        },
+        {
+            "Make": "CHEVROLET",
+            "Model": "BOLT EV",
+            "count": 1828
+        },
+        {
+            "Make": "TESLA",
+            "Model": "MODEL X",
+            "count": 1765
+        },
+        {
+            "Make": "JEEP",
+            "Model": "WRANGLER",
+            "count": 1171
+        },
+        {
+            "Make": "CHEVROLET",
+            "Model": "VOLT",
+            "count": 1085
+        },
+        {
+            "Make": "VOLKSWAGEN",
+            "Model": "ID.4",
+            "count": 1007
+        },
+        {
+            "Make": "CHRYSLER",
+            "Model": "PACIFICA",
+            "count": 908
+        },
+        {
+            "Make": "KIA",
+            "Model": "NIRO",
+            "count": 887
+        },
+        {
+            "Make": "FORD",
+            "Model": "MUSTANG MACH-E",
+            "count": 815
+        },
+        {
+            "Make": "BMW",
+            "Model": "X5",
+            "count": 731
+        },
+        {
+            "Make": "TOYOTA",
+            "Model": "PRIUS PRIME",
+            "count": 662
+        },
+        {
+            "Make": "RIVIAN",
+            "Model": "R1S",
+            "count": 649
+        }
+    ]
+}
